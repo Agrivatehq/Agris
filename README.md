@@ -1,5 +1,4 @@
-![alt text](./argis.png)
-
+# Agris - Agri GIS
 
 
 A platform to process all seeing eye of Argus - Argus GIS
